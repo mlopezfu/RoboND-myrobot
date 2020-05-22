@@ -62,4 +62,4 @@ The hello world message and the two 4-wheeled robot inside a Gazebo World should
 ![alt text](images/output1.jpg)
 ![alt text](images/output2.jpg)
 
-![alt text](images/output1.jpg)
+
