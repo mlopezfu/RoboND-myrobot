@@ -59,4 +59,7 @@ $ gazebo myworld.world
 
 ### Output
 The hello world message and the two 4-wheeled robot inside a Gazebo World should both launch as follow: 
-![alt text](images/output.png)
+![alt text](images/output1.jpg)
+![alt text](images/output2.jpg)
+
+![alt text](images/output1.jpg)
